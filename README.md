@@ -2,6 +2,8 @@
 
 # Web Project: Homeland
 
+🔗 **Live Demo:** [Acessar o site](https://adrielfunini16.github.io/web_project_homeland/)
+
 ## 📌 Descrição do Projeto
 
 Este projeto foi desenvolvido como parte da **Sprint 5 – Design Web Adaptativo** do bootcamp de Desenvolvimento Web da **TripleTen**.
