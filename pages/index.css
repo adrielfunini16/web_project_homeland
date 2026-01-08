@@ -7,14 +7,3 @@
 @import url("../blocks/lead.css");
 @import url("../blocks/intro.css");
 @import url("../blocks/footer.css");
-
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-}
